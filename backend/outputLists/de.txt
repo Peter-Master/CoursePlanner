@@ -1,0 +1,381 @@
+
+ANTH 103A - Anthropology of China
+ANTH 103B - Anthropology of Japan
+ANTH 103C - Anthropology of Contemporary Korea
+ANTH 109 - Human Universals
+ANTH 110 - Technology and Culture
+ANTH 122 - Anthropology of World Systems
+ANTH 130A - Coupled Human and Natural Systems: Risks, Vulnerability, Resilience, and Disasters
+ANTH 130B - Global Tourism and Environmental Conservation
+ANTH 131 - North American Indians
+ANTH 134 - Modern Cultures of Latin America
+ANTH 135 - Modern Mexican Culture
+ANTH 136 - Peoples and Cultures of the Pacific
+ANTH 137 - The Ancient Maya
+ANTH 138TS - Archaeology of Egypt
+ANTH 141 - Agriculture and Society in Mexico: Past and Present
+ANTH 142 - Peoples and Cultures of India
+ANTH 156 - Understanding Africa
+ANTH 176 - Representations of Sexuality in Modern Japan
+ANTH 176TS - Ancient Egyptian Religion
+ANTH 191 - Indigenous Movements in Asia
+ANTH 2 - Introductory Cultural Anthropology
+ANTH 25 - Violence and the Japanese State
+ANTH 3 - Introductory Archaeology
+ANTH 3SS - Introduction to Archaeology
+ANTH 7 - Introductory Biosocial Anthropology
+ARTHI 115E - The Grand Tour: Experiencing Italy in the Eighteenth Century
+ARTHI 136I - The City in History
+ARTHI 144D - Russian Art
+ARTHI 148A - Contemporary Art History: 1960-2000
+ARTHI 148B - Global Art After 1980
+ARTHI 6A - Art Survey I: Ancient-Medieval Art
+ARTHI 6B - Art Survey II: Renaissance-Baroque Art
+ARTHI 6C - Art Survey III: Modern-Contemporary Art
+AS AM 1 - Introduction to Asian American History, 1850-Present
+AS AM 100AA - Chinese Americans
+AS AM 100BB - Japanese Americans
+AS AM 100FF - South Asian Americans
+AS AM 107 - Third World Social Movements
+AS AM 111 - Asian American Communities and Contemporary Issues
+AS AM 119 - Asian Americans and Race Relations
+AS AM 130 - Colonialism and Migration
+AS AM 131 - Asian American Women's History
+AS AM 136 - Asian American Families
+AS AM 137 - Multiethnic Asian Americans
+AS AM 138 - Asian American Sexualities
+AS AM 154 - Race and Law in Early American History
+AS AM 155 - Racial Segregation from the Civil War to the Civil Rights Movement
+AS AM 156 - Race and Law in Modern America
+AS AM 161 - Asian American Religions
+AS AM 165 - Ethnographic Research Methods in Asian America
+AS AM 2 - American Migration Since 1965: Asians and others in the United States
+AS AM 3 - Asian American Personality and Identity
+AS AM 7 - Globalization, Gender and Social Inequality in Asian America
+AS AM 71 - Introduction to Asian American Religions
+AS AM 8 - Introduction to Asian American Gender and Sexuality
+BL ST 1 - Introduction to African-American Studies
+BL ST 100 - Africa and United States Policy
+BL ST 102 - Black Radicals and the Radical Tradition
+BL ST 103 - The Politics of Black Liberation - The Sixties
+BL ST 104 - Black Marxism
+BL ST 122 - The Education of Black Children
+BL ST 124 - Housing, Inheritance, and Race
+BL ST 125 - Queer Black Studies
+BL ST 129 - The Urban Dilemma
+BL ST 130A - Negritude and African Literature
+BL ST 130B - The Black Francophone Novel
+BL ST 131 - Race and Public Policy
+BL ST 15 - The Psychology of Blacks
+BL ST 160 - Analyses of Scientific Racism in the United States
+BL ST 169AR - African-American History
+BL ST 169BR - African-American History
+BL ST 169CR - African-American History
+BL ST 171 - Africa in Film
+BL ST 174 - From Plantations to Prisons
+BL ST 1H - Introduction to African-American Studies- Honors Seminar
+BL ST 3 - Introduction to African Studies
+BL ST 4 - Critical Introduction to Race and Racism
+BL ST 49A - Survey of African History
+BL ST 49B - Survey of African History
+BL ST 5 - Blacks and Western Civilization
+BL ST 50 - Blacks in the Media
+BL ST 6 - The Civil Rights Movement
+BL ST 6H - The Civil Rights Movement- Honors
+BL ST 7 - Introduction to Caribbean Studies
+C LIT 113 - Trauma, Memory, Historiography
+C LIT 119 - Psychoanalytic Theory
+C LIT 122A - Representations of the Holocaust
+C LIT 171 - Post-Colonial Cultures
+C LIT 179A - Revolutions: Marx, Nietzsche, Freud
+C LIT 186RR - Romantic Revolutions: Philosophy, History, and the Arts in Europe
+C LIT 27 - Memory: Bridging the Humanities and Neurosciences
+C LIT 30A - Major Works in European Literature
+C LIT 30B - Major Works in European Literature
+C LIT 30C - Major Works in European Literature
+C LIT 35 - The Making of the Modern World
+CH ST 114 - Cultural and Critical Theory
+CH ST 13 - Critical Introduction to Ancient Mesoamerica
+CH ST 137 - Chicana/o Oral Traditions
+CH ST 140 - Chicana/o Mexican Cultural Heritage
+CH ST 144 - The Chicano Community
+CH ST 151 - De-Colonizing Feminism
+CH ST 168A - History of the Chicano
+CH ST 168B - History of the Chicano
+CH ST 172 - Law and Civil Rights
+CH ST 173 - Immigrant Labor Organizing
+CH ST 174 - Chicano/a Politics
+CH ST 175 - Comparative Social Movements
+CH ST 176 - Theories of Social Change and Chicano Political Life
+CH ST 178A - Global Migration, Transnationalism in Chicana/o Contexts
+CH ST 179 - Democracy and Diversity
+CH ST 187 - Language, Power, and Learning
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
+CHIN 148 - Historic Lives
+CHIN 183B - Religious Practice and the State in China
+CHIN 185A - Qing Empire
+CHIN 185B - Modern China (since 1911)
+CHIN 26 - New Phenomena in 21st Century Chinese
+CLASS 101 - Greek Intellectual Revolutions
+CLASS 106 - Ancient Magic and Modern Revivals
+CLASS 140 - Slavery and Freedom in the Ancient World
+CLASS 150 - The Fall of the Ancient Republic: Cicero, Caesar, and Rome
+CLASS 151 - Emperors and Gladiators: The Roman Empire to Marcus Aurelius
+CLASS 171 - Artifact and Text: The Archaeology and Literature of Early Greece
+CLASS 20B - The Romans
+CLASS 50 - Introduction to Classical Archaeology
+COMM 1 - Introduction to Communication
+EACS 103A - Anthropology of China
+EACS 103B - Anthropology of Japan
+EACS 103C - Anthropology of Contemporary Korea
+EACS 140 - Indigenous Movements in Asia
+EACS 164B - Buddhist Traditions in East Asia
+EACS 186 - The Invention of Tradition in Contemporary East Asia
+EACS 21 - Zen Buddhism
+EACS 3 - Introduction to Asian Religious Traditions
+EACS 40 - Gender and Sexuality in Modern Asia
+EACS 4A - East Asian Traditions: Pre-modern
+EACS 4B - East Asian Traditions: Modern
+EACS 5 - Introduction to Buddhism
+EACS 7 - Asian Values
+EACS 80 - East Asian Civilization
+ECON 1 - Principles of Economics-Micro
+ECON 2 - Principles of Economics-Macro
+ECON 9 - Introduction to Economics
+ENV S 1 - Introduction to Environmental Studies
+ENV S 130A - Coupled Human and Natural Systems: Risks, Vulnerability, Resilience, and Disasters
+ENV S 130B - Global Tourism and Environmental Conservation
+ENV S 132 - Human Behavior and Global Environment
+ENV S 3 - Introduction to the Social and Cultural Environment
+FEMST 117C - Women, The Family, and Sexuality in the Middle Ages
+FEMST 153 - Women and Work
+FEMST 159B - Women in American History
+FEMST 159C - Women in Twentieth-Century American History
+FEMST 171CN - Citoyennes! Women and Politics in Modern France
+FEMST 20 - Women, Society, and Culture
+FEMST 20H - Women, Society, and Culture Honors
+FEMST 30 - Women, Development and Globalization
+FEMST 30H - Women, Development, and Globalization Honors
+FEMST 50 - Global Feminisms and Social Justice
+FEMST 50H - Global Feminisms and Social Justice Honors
+FEMST 60 - Women of Color: Race, Class, and Ethnicity
+FEMST 60H - Women of Color: Race, Class, and Ethnicity Honors
+FR 149C - Reading Paris (1830-1890)
+FR 154F - Time Off in Paris!
+FR 154G - Post-Colonial Cultures
+FR 155D - Citoyennes! Women and Politics in Modern France
+FR 40X - Memory: Bridging the Humanities and Neuroscience
+FR 50AX - Tales of Love in the Western Tradition
+FR 50BX - Tales of Love in the Western Tradition
+FR 50CX - Tales of Love in the Western Tradition
+GEOG 108 - Urban Geography
+GEOG 150 - Geography of the United States
+GEOG 2 - World Regions
+GEOG 20 - Geography of Surfing
+GEOG 5 - People, Place, and Environment
+GER 111 - Contemporary German Art and Politics
+GER 112 - Introduction to German Culture
+GER 116A - Representations of the Holocaust
+GER 179A - Revolutions: Marx, Nietzsche, Freud
+GER 35 - The Making of the Modern World
+GER 43A - Dreaming Revolutions: Introduction to Marx, Nietzsche and Freud
+GER 43C - Germany Today
+GLOBL 1 - Global History, Culture and Ideology
+GLOBL 2 - Global Socioeconomic and Political Processes
+HIST 105A - The Atomic Age
+HIST 106A - The Origins of Western Science, Antiquity to 1500
+HIST 106B - The Scientific Revolution, 1500 to 1800
+HIST 106C - History of Modern Science
+HIST 107C - The Darwinian Revolution and Modern Biology
+HIST 114B - History of Christianity
+HIST 114C - History of Christianity
+HIST 114D - History of Christianity
+HIST 117A - Towns, Trade, and Urban Culture in the Middle Ages
+HIST 117C - Women, The Family, and Sexuality in the Middle Ages
+HIST 11A - History of America's Racial and Ethnic Minorities
+HIST 133B - Twentieth Century Germany, Part I
+HIST 133C - Twentieth Century Germany, Part II
+HIST 133D - The Nazi Holocaust and Other Genocides
+HIST 159B - Women in American History
+HIST 159C - Women in Twentieth Century American History
+HIST 161A - Colonial and Revolutionary America
+HIST 161B - Colonial and Revolutionary America
+HIST 167CA - History of the American Working Class, 1800-1900
+HIST 167CB - Capital and Class in 20th Century America
+HIST 168A - History of the Chicanos
+HIST 168B - History of the Chicanos
+HIST 172A - Politics and Public Policy in the United States
+HIST 172B - Politics and Public Policy in the United States
+HIST 175A - American Cultural History
+HIST 175B - American Cultural History
+HIST 17A - The American People
+HIST 17AH - The American People-Honors
+HIST 17B - The American People
+HIST 17BH - The American People-Honors
+HIST 17C - The American People
+HIST 17CH - The American People-Honors
+HIST 182A - Korean History and Civilization: Part I
+HIST 182B - Korean History and Civilization: Part II
+HIST 185A - Qing Empire
+HIST 185B - Modern China (Since 1911)
+HIST 187A - Japan Under the Tokugawa Shoguns
+HIST 187B - Modern Japan
+HIST 187C - Recent Japan
+HIST 188S - Representations of Sexuality in Modern Japan
+HIST 189E - History of the Pacific
+HIST 20 - Science, Technology, and Medicine in Modern Society
+HIST 25 - Violence and the Japanese State
+HIST 2A - World History
+HIST 2AH - World History - Honors
+HIST 2B - World History
+HIST 2BH - World History - Honors
+HIST 2C - World History
+HIST 2CH - World History - Honors
+HIST 46 - Survey of Middle Eastern History
+HIST 49A - Survey of African History
+HIST 49B - Survey of African History
+HIST 4A - Western Civilization
+HIST 4AH - Western Civilization-Honors
+HIST 4B - Western Civilization
+HIST 4BH - Western Civilization-Honors
+HIST 4C - Western Civilization
+HIST 4CH - Western Civilization-Honors
+HIST 5 - The History of the Present
+HIST 7 - Great Issues in the History of Public Policy
+HIST 8 - Introduction to History of Latin America
+HIST 80 - East Asian Civilization
+HIST 87 - Japanese History Through Art and Literature
+HIST 88 - Survey of South Asian History
+ITAL 138AA - Cultural Representations in Italy
+ITAL 138AX - Cultural Representations in Italy
+ITAL 138CX - Cultural Representations in Italy
+ITAL 138D - Cultural Representations in Italy
+ITAL 138DX - Cultural Representations in Italy
+ITAL 138EX - Cultural Representations in Italy
+ITAL 138FF - Cultural Representations in Italy
+ITAL 138FX - Cultural Representations in Italy
+ITAL 138N - Cultural Representations in Italy
+ITAL 138RX - Cultural Representations in Italy
+ITAL 138X - Cultural Representations in Italy
+ITAL 138XX - Cultural Representations in Italy
+ITAL 144AX - Gender and Sexuality in Italian Culture
+ITAL 161AX - The European Union
+ITAL 189A - Italy in the Mediterranean: History, Arts, and Culture
+ITAL 20X - Introduction to Italian Culture
+JAPAN 162 - Representations of Sexuality in Modern Japan
+JAPAN 164 - Modernity and the Masses of Taisho Japan
+JAPAN 25 - Violence and the Japanese State
+JAPAN 63 - Sociology of Japan
+KOR 182A - Korean History and Civilization: Part I
+KOR 182B - Korean History and Civilization Part II
+LAIS 101 - Interdisciplinary Approaches to the History and Societies of Latin America and Iberia
+LING 130 - Language as Culture
+LING 132 - Language, Gender, and Sexuality
+LING 136 - African American Language and Culture
+LING 15 - Language in LIFE
+LING 170 - Language in Social Interaction
+LING 180 - Language, Race and Ethnicity
+LING 187 - Language, Power and Learning
+LING 20 - Language And Linguistics
+LING 30 - The Story Of English
+LING 50 - Language and Power
+LING 70 - Language In Society
+LING 80 - Endangered Languages
+MCDB 27 - Memory: Bridging the Humanities and Neuroscience
+MES 45 - Introduction to Middle East Studies
+MS 27 - American Military History and the Evolution of Western Warfare
+MUS 175E - Music Cultures of the World: China
+MUS 175F - Music Cultures of the World: The Middle East
+MUS 175G - Music Cultures of the World: India
+MUS 175I - Music Cultures of the World: Indonesia
+PHIL 1 - Short Introduction to Philosophy
+PHIL 100A - Ethics
+PHIL 100B - Theory of Knowledge
+PHIL 100C - Philosophy of Language
+PHIL 100D - Philosophy of Mind
+PHIL 100E - Metaphysics
+PHIL 112 - Philosophy of Religion
+PHIL 20A - History of Philosophy
+PHIL 20B - History of Philosophy
+PHIL 20C - History of Philosophy
+PHIL 3 - Critical Thinking
+PHIL 4 - Introduction to Ethics
+PHYS 43 - Origins: A Dialogue Between Scientists and Humanists
+POL S 1 - Introduction to Political Philosophy
+POL S 114 - Democracy and Diversity
+POL S 115 - Courts, Judges and Politics
+POL S 12 - American Government and Politics
+POL S 121 - International Politics
+POL S 136 - Government and Politics of China
+POL S 145 - The European Union
+POL S 150A - Politics of the Middle East
+POL S 151 - Voting and Elections
+POL S 155 - Congress
+POL S 171 - Political Communication
+POL S 187 - Classical Political Theory
+POL S 188 - Modern Political Theory
+POL S 189 - Recent and Contemporary Political Theory
+PORT 125A - Culture and Civilization of Portugal
+PORT 125B - Culture and Civilization of Brazil
+PSY 1 - Introduction to Psychology
+PSY 101 - Health Psychology
+PSY 102 - Introduction to Social Psychology
+PSY 103 - Introduction to Psychopathology
+PSY 105 - Developmental Psychology
+RG ST 1 - Introduction to the Study of Religion
+RG ST 115A - Literature and Religion of the Hebrew Bible/Old Testament
+RG ST 116A - The New Testament and Early Christianity
+RG ST 12 - Religious Approaches to Death
+RG ST 123 - Asian American Religions
+RG ST 126 - Roman Catholicism Today
+RG ST 130 - Judaism
+RG ST 131H - Politics and Religion in the City: The Case of Jerusalem
+RG ST 136 - Creation Myths
+RG ST 138B - Global Catholicism
+RG ST 14 - Introduction to Native American Religious Studies
+RG ST 141A - Sociology of Religion: The Classical Statements
+RG ST 147 - Religion and the American Experience
+RG ST 15 - Religion and Psychology
+RG ST 151A - Religion in American History to 1865
+RG ST 151B - Religion in American History Since 1865
+RG ST 152 - Religion in America Today
+RG ST 162C - Sikhism
+RG ST 162E - Indian Civilization
+RG ST 162F - South Asians in the U.S.
+RG ST 164B - Buddhist Traditions in East Asia
+RG ST 18 - Comparing Religions
+RG ST 183B - Religious Practice and the State in China
+RG ST 19 - The Gods and Goddesses of India
+RG ST 20 - Indic Civilization
+RG ST 21 - Zen Buddhism
+RG ST 25 - Global Catholicism Today
+RG ST 3 - Introduction to Asian Religious Traditions
+RG ST 31 - The Religions of Tibet
+RG ST 34 - Saints and Miracles in the Catholic Tradition
+RG ST 35 - Introduction to Religion and Politics
+RG ST 4 - Introduction to Buddhism
+RG ST 43 - Origins: A Dialogue Between Scientists and Humanists
+RG ST 5 - Introduction to Judaism, Christianity, and Islam
+RG ST 6 - Islam and Modernity
+RG ST 7 - Introduction to American Religion
+RG ST 71 - Introduction to Religion in Asian America
+RG ST 80A - Religion and Western Civilization I: Ancient
+RG ST 80B - Religion and Western Civilization II: Medieval
+RG ST 80C - Religion and Western Civilization III: Modern
+RG ST 82 - Modern Arab Culture
+SLAV 130D - Russian Art
+SLAV 152A - Slavic and East European Folklore
+SLAV 152B - Language and Cultural Identity
+SLAV 152C - Ideology and Representation
+SLAV 33 - Russian Culture
+SOC 1 - Introduction to Sociology
+SOC 131 - Political Sociology
+SOC 134 - Social Movements
+SOC 144 - The Chicano Community
+SOC 152A - Sociology of Human Sexuality
+SOC 153 - Women and Work
+SPAN 153 - Basque Studies
+SPAN 177 - Spanish-American Thought
+SPAN 178 - Mexican Culture

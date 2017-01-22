@@ -35,11 +35,10 @@
 # A2 lists completely individually of the rest of their requirements.
 #
 # 2) A stipulation from the registrar: "Please note that one course may only count
-# toward one A‐G requirement but that A‐G courses may overlap with other Special
+# toward one A-G requirement but that A-G courses may overlap with other Special
 # Subject Requirements". Thus, for a user who needs at least one more course in each
 # of areas D and E, a course that can cover either of area D and area E will 
 # only have its fill ranking benefited by 1 rather than 2.
-#
 #
 #
 #
@@ -54,7 +53,14 @@
 # d_writ.txt; de_writ.txt; defg_writ.txt; d_euro_writ.txt; de_euro_writ.txt; defg_euro_writ.txt;
 # f.txt; fg.txt; euro_f.txt; euro_fg.txt; f_writ.txt; fg_writ.txt; euro_f_writ.txt;
 # euro_fg_writ.txt
-
+#
+#
+#
+#
+# notes to self: decide and execute on whether \r, \n, or nothing should
+# be in the lists after each element -- also about what (if anything)
+# should come at the end of the file
+#
 
 # open all files
 
@@ -104,22 +110,25 @@ writList = writList.split("\n")
 
 
 
-# generate de.txt, defg.txt, fg.txt
 
+# generate de.txt, defg.txt, fg.txt"""
 areaDEList = areaDList
-areaDEList = list(set(areaDEList.extend(areaEList)))
+areaDEList.extend(areaEList)
+areaDEList = list(set(areaDEList))
 areaDEList.sort()
 with open("outputLists/de.txt", 'w') as areaDEFile:
 	areaDEFile.write("\n".join(item for item in areaDEList))
 
 areaFGList = areaFList
-areaFGList = list(set(areaFGList.extend(areaGList)))
+areaFGList.extend(areaGList)
+areaFGList = list(set(areaFGList))
 areaFGList.sort()
 with open("outputLists/fg.txt", 'w') as areaFGFile:
 	areaFGFile.write("\n".join(item for item in areaFGList))
 
 areaDEFGList = areaDEList
-areaDEFGList = list(set(areaDEFGList.extend(areaFGList)))
+areaDEFGList.extend(areaFGList)
+areaDEFGList = list(set(areaDEFGList))
 areaDEFGList.sort()
 with open("outputLists/defg.txt", 'w') as areaDEFGFile:
 	areaDEFGFile.write("\n".join(item for item in areaDEFGList))
@@ -127,6 +136,8 @@ with open("outputLists/defg.txt", 'w') as areaDEFGFile:
 
 
 
+# generate all combinations of one element of areaList
+# and any number of elements from requirementList
 areaLists = [areaCList, areaDList, areaDEList, areaDEFGList, areaEList, areaFList, areaFGList, areaGList]
 requirementLists = [amerList, ethList, euroList, quantList, worldList, writList]
 
