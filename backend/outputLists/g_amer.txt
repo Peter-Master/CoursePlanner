@@ -1,28 +1,28 @@
-C LIT 133
-ENGL 133
-ENGL 133BB
-ENGL 133GC
-ENGL 133GP
-ENGL 133MV
-ENGL 133SA
-ENGL 133SO
-ENGL 133TL
-ENGL 134
-ENGL 134AA
-ENGL 134BB
-ENGL 134IA
-ENGL 134IB
-ENGL 134IR
-ENGL 134LC
-ENGL 134MD
-ENGL 134MP
-ENGL 134NA
-ENGL 134PC
-ENGL 134RR
-ENGL 134RS
-ENGL 134TC
-ENGL 134TR
-ENGL 134XX
-ENGL 137A
-ENGL 137B
-ENGL 191
+C LIT 133 - Transpacific Literature
+ENGL 133 - Studies in American Regional Literature
+ENGL 133BB - Studies in American Regional Literature
+ENGL 133GC - Studies in American Regional Literature
+ENGL 133GP - Studies in American Regional Literature
+ENGL 133MV - Studies in American Regional Literature
+ENGL 133SA - Studies in American Regional Literature
+ENGL 133SO - Studies in American Regional Literature
+ENGL 133TL - Transpacific Literature
+ENGL 134 - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134AA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134BB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IA - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134LC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MD - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MP - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134NA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134PC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RS - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134TC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134TR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134XX - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 137A - Poetry in America Before 1900
+ENGL 137B - Poetry in America since 1900
+ENGL 191 - Afro-American Fiction and Criticism, 1920's to the present

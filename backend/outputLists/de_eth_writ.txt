@@ -1,36 +1,17 @@
-ARTHI 121D - African American Art and the African Legacy
-AS AM 1 - Introduction to Asian American History, 1850-Present
-AS AM 100AA - Chinese Americans
 AS AM 100BB - Japanese Americans
-AS AM 107 - Third World Social Movements
 AS AM 111 - Asian American Communities and Contemporary Issues
-AS AM 118 - Asian Americans in Popular Culture
-AS AM 119 - Asian Americans and Race Relations
-AS AM 120 - Asian American Documentary
-AS AM 127 - Asian American Film, Television, and Digital Media
 AS AM 131 - Asian American Women's History
 AS AM 136 - Asian American Families
 AS AM 137 - Multiethnic Asian Americans
-AS AM 138 - Asian American Sexualities
-AS AM 140 - Theory  Production of Social Experience
-AS AM 146 - Racialized Sexuality on Screen and Scene
 AS AM 161 - Asian American Religions
-AS AM 2 - American Migration Since 1965 Asians and others in the United States
-AS AM 3 - Asian American Personality and Identity
 AS AM 4 - Introduction to Asian American Popular Culture
-AS AM 5 - Introduction to Asian American Literature
-AS AM 71 - Introduction to Asian American Religions
-AS AM 8 - Introduction to Asian American Gender and Sexuality
 BL ST 1 - Introduction to African-American Studies
 BL ST 102 - Black Radicals and the Radical Tradition
 BL ST 103 - The Politics of Black Liberation - The Sixties
-BL ST 122 - The Education of Black Children
 BL ST 127 - Black Women Writers
 BL ST 129 - The Urban Dilemma
 BL ST 131 - Race and Public Policy
 BL ST 14 - The History of Jazz
-BL ST 142 - Music in African-American Cultures USA
-BL ST 15 - The Psychology of Blacks
 BL ST 169AR - African-American History
 BL ST 169BR - African-American History
 BL ST 169CR - African-American History
@@ -38,29 +19,16 @@ BL ST 170 - African-Americans in the American Cinema
 BL ST 172 - Contemporary Black Cinema
 BL ST 38A - Introduction to African-American Literature (Part 1)
 BL ST 38B - Introduction to African-American Literature (Part II)
-BL ST 4 - Critical Introduction to Race and Racism
 BL ST 50 - Blacks in the Media
 BL ST 6 - The Civil Rights Movement
 C LIT 153 - Border Narratives
-CH ST 125B - Contemporary Chicano and Chicana Art
-CH ST 137 - Chicanao Oral Traditions
-CH ST 138 - Barrio Popular Culture
-CH ST 140 - Chicanao Mexican Cultural Heritage
 CH ST 144 - The Chicano Community
-CH ST 148 - Chicana Art and Feminism
-CH ST 151 - De-Colonizing Feminism
 CH ST 152 - Postcolonialism
-CH ST 168A - History of the Chicano
-CH ST 168B - History of the Chicano
 CH ST 172 - Law and Civil Rights
-CH ST 173 - Immigrant Labor Organizing
-CH ST 174 - Chicanoa Politics
 CH ST 175 - Comparative Social Movements
-CH ST 178A - Global Migration, Transnationalism in Chicanao Contexts
 CH ST 180 - Survey of Chicano Literature
 CH ST 181 - The Chicano Novel
 CH ST 184A - Chicana Writers
-CH ST 188C - Chicano Theater Workshop
 CH ST 1A - Introduction to Chicanoa Studies
 CH ST 1B - Introduction to Chicanoa Studies
 CH ST 1C - Introduction to Chicanoa Studies
@@ -82,16 +50,11 @@ ENGL 50 - Introduction to US Minority Literature
 FEMST 153 - Women and Work
 FEMST 60 - Women of Color Race, Class, and Ethnicity
 FEMST 60H - Women of Color Race, Class, and Ethnicity Honors
-HIST 161A - Colonial and Revolutionary America
-HIST 161B - Colonial and Revolutionary America
-HIST 168A - History of the Chicanos
-HIST 168B - History of the Chicanos
 LING 136 - African American Language and Culture
 LING 180 - Language, Race and Ethnicity
 RG ST 123 - Asian American Religions
 RG ST 14 - Introduction to Native American Religious Studies
 RG ST 162F - South Asians in the US
-RG ST 71 - Introduction to Religion in Asian America
 SOC 144 - The Chicano Community
 SOC 153 - Women and Work
 SPAN 135 - Survey of Chicano Literature

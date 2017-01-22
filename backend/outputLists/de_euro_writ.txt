@@ -1,0 +1,29 @@
+ARTHI 6A - Art Survey I Ancient-Medieval Art
+ARTHI 6B - Art Survey II Renaissance-Baroque Art
+ARTHI 6C - Art Survey III Modern-Contemporary Art
+C LIT 30A - Major Works in European Literature
+C LIT 30B - Major Works in European Literature
+C LIT 30C - Major Works in European Literature
+CLASS 110 - From Homer To Harlequin Masculine, Feminine And The Romance
+CLASS 171 - Artifact and Text The Archaeology and Literature of Early Greece
+CLASS 175 - Ancient Theories of Literature
+HIST 2A - World History
+HIST 2AH - World History - Honors
+HIST 2B - World History
+HIST 2BH - World History - Honors
+HIST 2C - World History
+HIST 2CH - World History - Honors
+HIST 4A - Western Civilization
+HIST 4AH - Western Civilization-Honors
+HIST 4B - Western Civilization
+HIST 4BH - Western Civilization-Honors
+HIST 4C - Western Civilization
+HIST 4CH - Western Civilization-Honors
+PHIL 20A - History of Philosophy
+PHIL 20B - History of Philosophy
+PHIL 20C - History of Philosophy
+RG ST 80A - Religion and Western Civilization I Ancient
+RG ST 80B - Religion and Western Civilization II Medieval
+RG ST 80C - Religion and Western Civilization III Modern
+THTR 2C - Performance in Global Contexts EUROPE
+THTR 8 - European Theater History

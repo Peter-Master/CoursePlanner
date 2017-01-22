@@ -1,0 +1,141 @@
+ANTH 103A - Anthropology of China
+ANTH 103B - Anthropology of Japan
+ANTH 103C - Anthropology of Contemporary Korea
+ANTH 110 - Technology and Culture
+ANTH 122 - Anthropology of World Systems
+ANTH 130A - Coupled Human and Natural Systems Risks, Vulnerability, Resilience, and Disasters
+ANTH 130B - Global Tourism and Environmental Conservation
+ANTH 131 - North American Indians
+ANTH 134 - Modern Cultures of Latin America
+ANTH 135 - Modern Mexican Culture
+ANTH 136 - Peoples and Cultures of the Pacific
+ANTH 137 - The Ancient Maya
+ANTH 138TS - Archaeology of Egypt
+ANTH 141 - Agriculture and Society in Mexico Past and Present
+ANTH 142 - Peoples and Cultures of India
+ANTH 156 - Understanding Africa
+ANTH 176 - Representations of Sexuality in Modern Japan
+ANTH 176TS - Ancient Egyptian Religion
+ANTH 2 - Introductory Cultural Anthropology
+ANTH 25 - Violence and the Japanese State
+ANTH 3 - Introductory Archaeology
+ANTH 3SS - Introduction to Archaeology
+ARTHI 127A - African Art I
+ARTHI 127B - African Art II
+ARTHI 130A - Pre-Columbian Art of Mexico
+ARTHI 130B - Pre-Columbian Art of the Maya
+ARTHI 130D - Pre-Columbian Art of South America
+ARTHI 132A - Mediterranean Cities
+ARTHI 134A - Buddhist Art
+ARTHI 134B - Early Chinese Art
+ARTHI 134C - Chinese Painting I
+ARTHI 134D - Art and Modern China
+ARTHI 134E - The Art of the Chinese Landscape
+ARTHI 134F - The Arts of Japan
+ARTHI 134G - Japanese Painting
+ARTHI 134H - Ukiyo-e Pictures of the Floating World
+ARTHI 136J - Landscape of Colonialism
+ARTHI 6DS - Survey History of Art in China
+ARTHI 6DW - Survey Art of Japan and Korea
+ARTHI 6E - Survey Arts of Africa, Oceania, and Native North America
+ARTHI 6H - Survey Pre-Columbian Art
+ARTHI 6K - Survey Islamic Art and Architecture
+BL ST 104 - Black Marxism
+BL ST 126 - Comparative Black Literatures
+BL ST 130A - Negritude and African Literature
+BL ST 130B - The Black Francophone Novel
+BL ST 161 - "Third World" Cinema
+BL ST 162 - African Cinema
+BL ST 171 - Africa in Film
+BL ST 3 - Introduction to African Studies
+BL ST 33 - Major Works of African Literatures
+BL ST 49A - Survey of African History
+BL ST 49B - Survey of African History
+BL ST 5 - Blacks and Western Civilization
+BL ST 7 - Introduction to Caribbean Studies
+C LIT 126 - Comparative Black Literatures
+C LIT 171 - Post-Colonial Cultures
+C LIT 31 - Major Works of Asian Literatures
+C LIT 32 - Major Works of Middle Eastern Literatures
+C LIT 33 - Major Works of African Literatures
+CHIN 115A - Imagism, Haiku, and Chinese Poetry
+CHIN 124B - Readings in Modern Chinese Literature
+CHIN 132A - Special Topics in Classical Chinese Poetry
+CHIN 148 - Historic Lives
+CHIN 170 - New Taiwan Cinema
+CHIN 185A - Qing Empire
+CHIN 185B - Modern China (since 1911)
+CHIN 40 - Popular Culture in Modern Chinese Societies
+DANCE 35 - History and Appreciation of World Dance
+EACS 103A - Anthropology of China
+EACS 103B - Anthropology of Japan
+EACS 103C - Anthropology of Contemporary Korea
+EACS 134A - Buddhist Art
+EACS 164B - Buddhist Traditions in East Asia
+EACS 186 - The Invention of Tradition in Contemporary East Asia
+EACS 21 - Zen Buddhism
+EACS 3 - Introduction to Asian Religious Traditions
+EACS 40 - Gender and Sexuality in Modern Asia
+EACS 4A - East Asian Traditions Pre-modern
+EACS 4B - East Asian Traditions Modern
+EACS 5 - Introduction to Buddhism
+EACS 80 - East Asian Civilization
+ENV S 130A - Coupled Human and Natural Systems Risks, Vulnerability, Resilience, and Disasters
+ENV S 130B - Global Tourism and Environmental Conservation
+FEMST 30 - Women, Development and Globalization
+FEMST 30H - Women, Development, and Globalization Honors
+FR 154G - Post-Colonial Cultures
+GEOG 2 - World Regions
+GLOBL 1 - Global History, Culture and Ideology
+HIST 182A - Korean History and Civilization Part I
+HIST 182B - Korean History and Civilization Part II
+HIST 185A - Qing Empire
+HIST 185B - Modern China (Since 1911)
+HIST 187A - Japan Under the Tokugawa Shoguns
+HIST 187B - Modern Japan
+HIST 187C - Recent Japan
+HIST 188S - Representations of Sexuality in Modern Japan
+HIST 189E - History of the Pacific
+HIST 46 - Survey of Middle Eastern History
+HIST 49A - Survey of African History
+HIST 49B - Survey of African History
+HIST 80 - East Asian Civilization
+HIST 87 - Japanese History Through Art and Literature
+JAPAN 112 - Survey of Modern Japanese Literature
+JAPAN 115 - Topics in Twentieth-Century Japanese
+JAPAN 134F - Arts of Japan
+JAPAN 134G - Japanese Painting
+JAPAN 134H - Ukiyo-e Pictures of the Floating World
+JAPAN 149 - Traditional Japanese Drama
+JAPAN 159 - Japanese Cinema
+JAPAN 162 - Representations of Sexuality in Modern Japan
+JAPAN 164 - Modernity and the Masses of Taisho Japan
+JAPAN 25 - Violence and the Japanese State
+JAPAN 63 - Sociology of Japan
+KOR 113 - Korean Literature Survey
+KOR 182A - Korean History and Civilization Part I
+KOR 182B - Korean History and Civilization Part II
+MES 45 - Introduction to Middle East Studies
+MUS 175E - Music Cultures of the World China
+MUS 175F - Music Cultures of the World The Middle East
+MUS 175G - Music Cultures of the World India
+MUS 175I - Music Cultures of the World Indonesia
+POL S 136 - Government and Politics of China
+POL S 150A - Politics of the Middle East
+RG ST 129 - Religions of the Ancient Near East
+RG ST 131H - Politics and Religion in the City The Case of Jerusalem
+RG ST 138B - Global Catholicism
+RG ST 162C - Sikhism
+RG ST 164B - Buddhist Traditions in East Asia
+RG ST 19 - The Gods and Goddesses of India
+RG ST 20 - Indic Civilization
+RG ST 21 - Zen Buddhism
+RG ST 3 - Introduction to Asian Religious Traditions
+RG ST 31 - The Religions of Tibet
+RG ST 4 - Introduction to Buddhism
+RG ST 6 - Islam and Modernity
+SPAN 177 - Spanish-American Thought
+SPAN 178 - Mexican Culture
+THTR 184CA - Comparative African Theater and Performance
+THTR 2A - Performance in Global Contexts Africa and the Caribbean
+THTR 2B - Performance in Global Contexts ASIA

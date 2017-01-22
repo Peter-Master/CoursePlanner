@@ -1,0 +1,498 @@
+ANTH 122 - Anthropology of World Systems
+ANTH 135 - Modern Mexican Culture
+ANTH 138TS - Archaeology of Egypt
+ANTH 141 - Agriculture and Society in Mexico Past and Present
+ANTH 176 - Representations of Sexuality in Modern Japan
+ANTH 25 - Violence and the Japanese State
+ANTH 3 - Introductory Archaeology
+ARTHI 130A - Pre-Columbian Art of Mexico
+ARTHI 130B - Pre-Columbian Art of the Maya
+ARTHI 130D - Pre-Columbian Art of South America
+ARTHI 5A - Introduction to Architecture and Environment
+ARTHI 6A - Art Survey I Ancient-Medieval Art
+ARTHI 6B - Art Survey II Renaissance-Baroque Art
+ARTHI 6C - Art Survey III Modern-Contemporary Art
+ARTHI 6DS - Survey History of Art in China
+ARTHI 6DW - Survey Art of Japan and Korea
+ARTHI 6F - Survey Architecture and Planning
+ARTHI 6G - Survey History of Photography
+ARTHI 6H - Survey Pre-Columbian Art
+ARTHI 6K - Survey Islamic Art and Architecture
+AS AM 100BB - Japanese Americans
+AS AM 111 - Asian American Communities and Contemporary Issues
+AS AM 122 - Asian American Fiction
+AS AM 128 - Writings by Asian American Women
+AS AM 131 - Asian American Women's History
+AS AM 136 - Asian American Families
+AS AM 137 - Multiethnic Asian Americans
+AS AM 161 - Asian American Religions
+AS AM 4 - Introduction to Asian American Popular Culture
+BL ST 1 - Introduction to African-American Studies
+BL ST 102 - Black Radicals and the Radical Tradition
+BL ST 103 - The Politics of Black Liberation - The Sixties
+BL ST 104 - Black Marxism
+BL ST 124 - Housing, Inheritance, and Race
+BL ST 125 - Queer Black Studies
+BL ST 126 - Comparative Black Literatures
+BL ST 127 - Black Women Writers
+BL ST 129 - The Urban Dilemma
+BL ST 130A - Negritude and African Literature
+BL ST 131 - Race and Public Policy
+BL ST 14 - The History of Jazz
+BL ST 153 - Black Popular Music in America
+BL ST 162 - African Cinema
+BL ST 169AR - African-American History
+BL ST 169BR - African-American History
+BL ST 169CR - African-American History
+BL ST 170 - African-Americans in the American Cinema
+BL ST 171 - Africa in Film
+BL ST 172 - Contemporary Black Cinema
+BL ST 174 - From Plantations to Prisons
+BL ST 33 - Major Works of African Literatures
+BL ST 38A - Introduction to African-American Literature (Part 1)
+BL ST 38B - Introduction to African-American Literature (Part II)
+BL ST 45 - Black Arts Expressions
+BL ST 49A - Survey of African History
+BL ST 49B - Survey of African History
+BL ST 5 - Blacks and Western Civilization
+BL ST 50 - Blacks in the Media
+BL ST 6 - The Civil Rights Movement
+BL ST 7 - Introduction to Caribbean Studies
+C LIT 100 - Introduction to Comparative Literature
+C LIT 107 - Voyages to the Unknown
+C LIT 113 - Trauma, Memory, Historiography
+C LIT 119 - Psychoanalytic Theory
+C LIT 122A - Representations of the Holocaust
+C LIT 122B - Holocaust in France
+C LIT 126 - Comparative Black Literatures
+C LIT 128A - Children's Literature
+C LIT 133 - Transpacific Literature
+C LIT 153 - Border Narratives
+C LIT 154 - Science Fiction in Eastern Europe
+C LIT 161 - Literature of Central Europe
+C LIT 170 - Literary Translation Theory and Practice
+C LIT 179B - Mysticism
+C LIT 179C - Mediatechnology
+C LIT 186RR - Romantic Revolutions Philosophy, History, and the Arts in Europe
+C LIT 30A - Major Works in European Literature
+C LIT 30B - Major Works in European Literature
+C LIT 30C - Major Works in European Literature
+C LIT 31 - Major Works of Asian Literatures
+C LIT 32 - Major Works of Middle Eastern Literatures
+C LIT 33 - Major Works of African Literatures
+C LIT 34 - Literature of the Americas
+C LIT 35 - The Making of the Modern World
+CH ST 144 - The Chicano Community
+CH ST 152 - Postcolonialism
+CH ST 172 - Law and Civil Rights
+CH ST 175 - Comparative Social Movements
+CH ST 179 - Democracy and Diversity
+CH ST 180 - Survey of Chicano Literature
+CH ST 181 - The Chicano Novel
+CH ST 184A - Chicana Writers
+CH ST 1A - Introduction to Chicanoa Studies
+CH ST 1B - Introduction to Chicanoa Studies
+CH ST 1C - Introduction to Chicanoa Studies
+CHIN 124B - Readings in Modern Chinese Literature
+CHIN 132A - Special Topics in Classical Chinese Poetry
+CHIN 170 - New Taiwan Cinema
+CHIN 185A - Qing Empire
+CHIN 185B - Modern China (since 1911)
+CHIN 40 - Popular Culture in Modern Chinese Societies
+CLASS 110 - From Homer To Harlequin Masculine, Feminine And The Romance
+CLASS 171 - Artifact and Text The Archaeology and Literature of Early Greece
+CLASS 175 - Ancient Theories of Literature
+COMM 1 - Introduction to Communication
+DANCE 145A - Studies in Dance History to 1789
+DANCE 145B - Studies in Dance History Ballet
+DANCE 36 - History of Modern Dance
+EACS 21 - Zen Buddhism
+EACS 3 - Introduction to Asian Religious Traditions
+EACS 4A - East Asian Traditions Pre-modern
+EACS 4B - East Asian Traditions Modern
+EACS 5 - Introduction to Buddhism
+EACS 80 - East Asian Civilization
+ENGL 101 - English Literature from the Medieval Period to 1650
+ENGL 102 - English and American Literature from 1650-1789
+ENGL 103A - American Literature from 1789 to 1900
+ENGL 103B - British Literature from 1789 to 1900
+ENGL 104A - American Literature from 1900 to Present
+ENGL 104B - British Literature from 1900 to Present
+ENGL 105A - Shakespeare, Poems and Earlier Plays
+ENGL 105B - Shakespeare, Later Plays
+ENGL 113 - Studies in Literary Theory and Criticism
+ENGL 113LC - Studies in Literary Theory and Criticism
+ENGL 113MI - Studies in Literary Theory and Criticism
+ENGL 113PS - Studies in Literary Theory and Criticism
+ENGL 114 - Woman and Literature
+ENGL 114AA - Women and Literature
+ENGL 114AF - Woman and Literature
+ENGL 114BW - Women and Literature
+ENGL 114EM - Woman and Literature
+ENGL 114FE - Woman and Literature
+ENGL 114GT - Woman and Literature
+ENGL 114PC - Woman and Literature
+ENGL 114RW - Women and Literature
+ENGL 114WC - Woman and Literature
+ENGL 114WR - Women and Literature
+ENGL 115 - Medieval Literature
+ENGL 116A - Biblical Literature The Old Testament
+ENGL 116B - Biblical Literature The New Testament
+ENGL 119X - Medieval Literature in Translation
+ENGL 120 - Modern Drama
+ENGL 121 - The Art of Narrative
+ENGL 122 - Cultural Representations
+ENGL 122AA - Cultural Representations
+ENGL 122AP - Cultural Representations
+ENGL 122BC - Cultural Representations
+ENGL 122BH - Cultural Representations
+ENGL 122CD - Cultural Representations
+ENGL 122GW - Cultural Representations
+ENGL 122IL - Cultural Representations
+ENGL 122LE - Cultural Representations Literature and the Environment
+ENGL 122MD - Cultural Representations
+ENGL 122MM - Cultural Representations
+ENGL 122NE - Cultural Representations Nature and the Environment
+ENGL 122NW - Cultural Representations
+ENGL 122RE - Cultural Representations
+ENGL 122SA - Cultural Representations
+ENGL 124 - Readings in the Modern Short Story
+ENGL 126B - Survey of British Fiction (II)
+ENGL 128 - Literary Genres
+ENGL 128AA - Literary Genres
+ENGL 128AU - Literary Genres
+ENGL 128CM - Literary Genres
+ENGL 128CO - Literary Genres
+ENGL 128CP - Literary Genres
+ENGL 128GN - Literary Genres
+ENGL 128ML - Literary Genres
+ENGL 128PH - Literary Genres
+ENGL 128SA - Literary Genres
+ENGL 128TR - Literary Genres
+ENGL 131 - Studies in American Literature
+ENGL 131AR - Studies in American Literature
+ENGL 131AW - Studies in American Literature
+ENGL 131GT - Studies in American Literature
+ENGL 131IS - Studies in American Literature
+ENGL 131SI - Studies in American Literature
+ENGL 133 - Studies in American Regional Literature
+ENGL 133GC - Studies in American Regional Literature
+ENGL 133GP - Studies in American Regional Literature
+ENGL 133SO - Studies in American Regional Literature
+ENGL 134 - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134AA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134BB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MP - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134NA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134PC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RS - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 137A - Poetry in America Before 1900
+ENGL 137B - Poetry in America since 1900
+ENGL 140 - Contemporary American Literature
+ENGL 15 - Introduction to Shakespeare
+ENGL 150 - Anglo-Irish Literature
+ENGL 152A - Chaucer Canterbury Tales
+ENGL 156 - Literature of Chivalry
+ENGL 157 - English Renaissance Drama
+ENGL 162 - Milton
+ENGL 165 - Topics In Literature
+ENGL 165AA - Topics In Literature
+ENGL 165AC - Topics In Literature
+ENGL 165AT - Topics In Literature
+ENGL 165BA - Topics In Literature
+ENGL 165BB - Topics In Literature
+ENGL 165BW - Topics In Literature
+ENGL 165CC - Topics In Literature
+ENGL 165CD - Topics In Literature
+ENGL 165CI - Topics in Literature
+ENGL 165CL - Topics in Literature
+ENGL 165DD - Topics In Literature
+ENGL 165DL - Topics In Literature
+ENGL 165EB - Topics In Literature
+ENGL 165EF - Topics In Literature
+ENGL 165EM - Topics In Literature
+ENGL 165GL - Topics In Literature
+ENGL 165HE - Topics In Literature
+ENGL 165HR - Topics In Literature
+ENGL 165HS - Topics In Literature
+ENGL 165IF - Topics In Literature
+ENGL 165JT - Topics In Literature
+ENGL 165LA - Topics in Literature
+ENGL 165LB - Topics In Literature
+ENGL 165LF - Topics In Literature
+ENGL 165LG - Topics In Literature
+ENGL 165LV - Topics In Literature
+ENGL 165MA - Topics In Literature
+ENGL 165MC - Topics in Literature
+ENGL 165ML - Topics In Literature
+ENGL 165MM - Topics In Literature
+ENGL 165MT - Topics in Literature
+ENGL 165NT - Topics In Literature
+ENGL 165PC - Topics In Literature
+ENGL 165PH - Topics In Literature
+ENGL 165PL - Topics In Literature
+ENGL 165PR - Topics In Literature
+ENGL 165RD - Topics In Literature
+ENGL 165RL - Topics In Literature
+ENGL 165WD - Topics In Literature
+ENGL 170 - Studies in Literature and the Mind
+ENGL 170CM - Studies in Literature and the Mind
+ENGL 170IC - Studies in Literature and the Mind
+ENGL 170IM - Studies in Literature and the Mind
+ENGL 170LM - Studies in Literature and the Mind
+ENGL 170MT - Studies in Literature and the Mind
+ENGL 172 - Studies in the Enlightenment
+ENGL 179 - British Romantic Writers
+ENGL 180 - The Victorian Era
+ENGL 181 - Studies in the Nineteenth Century
+ENGL 181AL - Studies in the Nineteenth Century
+ENGL 184 - Modern European Literature
+ENGL 185 - Modernism in English
+ENGL 187 - Studies in Modern Literature
+ENGL 187AA - Studies in Modern Literature
+ENGL 187AG - Studies in Modern Literature
+ENGL 187BA - Studies in Modern Literature
+ENGL 187IL - Studies in Modern Literature
+ENGL 187LL - Studies in Modern Literature
+ENGL 187ML - Studies in Modern Literature
+ENGL 187SM - Studies in Modern Literature
+ENGL 187TD - Studies in Modern Literature
+ENGL 187TM - Studies in Modern Literature
+ENGL 187US - Studies in Modern Literature
+ENGL 187VW - Studies in Modern Literature
+ENGL 189 - Contemporary Literature
+ENGL 190 - World Literature in English
+ENGL 190AL - World Literature in English
+ENGL 190GL - Global Literatures
+ENGL 190WL - World Literature in English
+ENGL 191 - Afro-American Fiction and Criticism, 1920's to the present
+ENGL 192 - Science Fiction
+ENGL 193 - Detective Fiction
+ENGL 38A - Introduction to African-American Literature (Part 1)
+ENGL 38B - Introduction to African-American Literature (Part II)
+ENGL 50 - Introduction to US Minority Literature
+ENGL 65AC - Topics in Literature
+ENGL 65EM - Topics in Literature
+ENGL 65HS - Topics in Literature
+ENGL 65IC - Topics in Literature
+ENGL 65LC - Topics in Literature
+ENGL 65MM - Topics in Literature
+ENGL 65PW - Topics in Literature
+ENGL 65SS - Topics in Literature
+ENV S 1 - Introduction to Environmental Studies
+ENV S 122LE - Cultural Representations Literature and the Environment
+ENV S 122NE - Cultural Representations Nature and the Environment
+ENV S 160 - American Environmental Literature
+ENV S 3 - Introduction to the Social and Cultural Environment
+FEMST 117C - Women, The Family, and Sexuality in the Middle Ages
+FEMST 153 - Women and Work
+FEMST 159B - Women in American History
+FEMST 159C - Women in Twentieth-Century American History
+FEMST 171CN - Citoyennes Women and Politics in Modern France
+FEMST 20 - Women, Society, and Culture
+FEMST 20H - Women, Society, and Culture Honors
+FEMST 30 - Women, Development and Globalization
+FEMST 30H - Women, Development, and Globalization Honors
+FEMST 40 - Women, Representation, and Cultural Production
+FEMST 40H - Women, Representation, and Cultural Production Honors
+FEMST 50 - Global Feminisms and Social Justice
+FEMST 50H - Global Feminisms and Social Justice Honors
+FEMST 60 - Women of Color Race, Class, and Ethnicity
+FEMST 60H - Women of Color Race, Class, and Ethnicity Honors
+FR 147A - French and Francophone Poetry
+FR 147B - French and Francophone Theater
+FR 148C - Women in the Middle Ages
+FR 148E - The Age of Louis XIV
+FR 149C - Reading Paris (1830-1890)
+FR 149D - French Postmodern Literature
+FR 149E - Belgian Literature and Art
+FR 153A - Studies in Medieval Literature
+FR 153B - French Theatre in Translation
+FR 153C - Autobiographies and Life Stories
+FR 153E - The Power of Negative Thinking Sartre, Adorno, and Marcuse
+FR 153F - Existentialist Literature in Translation
+FR 154A - Voyages to the Unknown
+FR 154D - Torture Theory, History, Practice
+FR 154E - Holocaust in France
+FR 154F - Time Off in Paris
+FR 155A - Women in the Middle Ages
+FR 155D - Citoyennes Women and Politics in Modern France
+FR 156A - French Cinema History and Theory
+FR 156B - French and Francophone Cinema
+FR 156C - Modern Images of the Middle Ages The Intersection of Text, History, and Film
+FR 156D - Technology and Cinema
+GER 115A - Survey of German Literature
+GER 115B - Survey of German Literature
+GER 115C - Survey of German Literature
+GER 116A - Representations of the Holocaust
+GER 143 - The Superhuman
+GER 151C - Literature of Central Europe
+GER 179A - Revolutions Marx, Nietzsche, Freud
+GER 179B - Mysticism
+GER 179C - Mediatechnology
+GER 183 - The Horror Film
+GER 187 - Satan in German Literature and Beyond
+GER 43A - Dreaming Revolutions Introduction to Marx, Nietzsche and Freud
+GER 43C - Germany Today
+GER 55A - Contemporary German Pop Culture
+GLOBL 1 - Global History, Culture and Ideology
+GLOBL 2 - Global Socioeconomic and Political Processes
+HEB 114A - Readings in Modern Hebrew Prose and Poetry
+HEB 114B - Readings in Modern Hebrew Prose and Poetry
+HEB 114C - Readings in Modern Hebrew Prose and Poetry
+HIST 106A - The Origins of Western Science, Antiquity to 1500
+HIST 106B - The Scientific Revolution, 1500 to 1800
+HIST 106C - History of Modern Science
+HIST 114B - History of Christianity
+HIST 114C - History of Christianity
+HIST 114D - History of Christianity
+HIST 117A - Towns, Trade, and Urban Culture in the Middle Ages
+HIST 117C - Women, The Family, and Sexuality in the Middle Ages
+HIST 159B - Women in American History
+HIST 159C - Women in Twentieth Century American History
+HIST 167CA - History of the American Working Class, 1800-1900
+HIST 172A - Politics and Public Policy in the United States
+HIST 172B - Politics and Public Policy in the United States
+HIST 17A - The American People
+HIST 17AH - The American People-Honors
+HIST 17B - The American People
+HIST 17BH - The American People-Honors
+HIST 17C - The American People
+HIST 17CH - The American People-Honors
+HIST 182A - Korean History and Civilization Part I
+HIST 182B - Korean History and Civilization Part II
+HIST 185A - Qing Empire
+HIST 185B - Modern China (Since 1911)
+HIST 187A - Japan Under the Tokugawa Shoguns
+HIST 187B - Modern Japan
+HIST 187C - Recent Japan
+HIST 188S - Representations of Sexuality in Modern Japan
+HIST 189E - History of the Pacific
+HIST 2A - World History
+HIST 2AH - World History - Honors
+HIST 2B - World History
+HIST 2BH - World History - Honors
+HIST 2C - World History
+HIST 2CH - World History - Honors
+HIST 46 - Survey of Middle Eastern History
+HIST 49A - Survey of African History
+HIST 49B - Survey of African History
+HIST 4A - Western Civilization
+HIST 4AH - Western Civilization-Honors
+HIST 4B - Western Civilization
+HIST 4BH - Western Civilization-Honors
+HIST 4C - Western Civilization
+HIST 4CH - Western Civilization-Honors
+HIST 7 - Great Issues in the History of Public Policy
+HIST 8 - Introduction to History of Latin America
+HIST 80 - East Asian Civilization
+HIST 87 - Japanese History Through Art and Literature
+ITAL 114X - Dante's "Divine Comedy"
+ITAL 138AX - Cultural Representations in Italy
+ITAL 142X - Women in Italy
+ITAL 144AX - Gender and Sexuality in Italian Culture
+ITAL 161AX - The European Union
+ITAL 180Z - Italian Cinema
+JAPAN 112 - Survey of Modern Japanese Literature
+JAPAN 159 - Japanese Cinema
+JAPAN 162 - Representations of Sexuality in Modern Japan
+KOR 182A - Korean History and Civilization Part I
+KOR 182B - Korean History and Civilization Part II
+LAIS 101 - Interdisciplinary Approaches to the History and Societies of Latin America and Iberia
+LAIS 102 - Interdisciplinary Approaches to the Cultures, Languages, and Literatures ofLatin America and Iberia
+LING 132 - Language, Gender, and Sexuality
+LING 136 - African American Language and Culture
+LING 170 - Language in Social Interaction
+LING 180 - Language, Race and Ethnicity
+LING 30 - The Story Of English
+LING 70 - Language In Society
+MS 27 - American Military History and the Evolution of Western Warfare
+MUS 114 - Music and Popular Culture in America
+MUS 115 - Symphonic Music
+MUS 118A - History and Literature of Great Composers in Western Music
+MUS 119A - Music and Politics
+MUS 15 - Music Appreciation
+MUS 175E - Music Cultures of the World China
+MUS 175F - Music Cultures of the World The Middle East
+MUS 175G - Music Cultures of the World India
+PHIL 1 - Short Introduction to Philosophy
+PHIL 100A - Ethics
+PHIL 100B - Theory of Knowledge
+PHIL 100C - Philosophy of Language
+PHIL 100D - Philosophy of Mind
+PHIL 100E - Metaphysics
+PHIL 112 - Philosophy of Religion
+PHIL 20A - History of Philosophy
+PHIL 20B - History of Philosophy
+PHIL 20C - History of Philosophy
+PHIL 4 - Introduction to Ethics
+PHYS 43 - Origins A Dialogue Between Scientists and Humanists
+POL S 1 - Introduction to Political Philosophy
+POL S 114 - Democracy and Diversity
+POL S 115 - Courts, Judges and Politics
+POL S 12 - American Government and Politics
+POL S 121 - International Politics
+POL S 136 - Government and Politics of China
+POL S 145 - The European Union
+POL S 155 - Congress
+PORT 125A - Culture and Civilization of Portugal
+PORT 125B - Culture and Civilization of Brazil
+RG ST 1 - Introduction to the Study of Religion
+RG ST 114X - Dante's "Divine Comedy"
+RG ST 116A - The New Testament and Early Christianity
+RG ST 123 - Asian American Religions
+RG ST 126 - Roman Catholicism Today
+RG ST 130 - Judaism
+RG ST 136 - Creation Myths
+RG ST 138B - Global Catholicism
+RG ST 14 - Introduction to Native American Religious Studies
+RG ST 141A - Sociology of Religion The Classical Statements
+RG ST 147 - Religion and the American Experience
+RG ST 15 - Religion and Psychology
+RG ST 151A - Religion in American History to 1865
+RG ST 151B - Religion in American History Since 1865
+RG ST 162E - Indian Civilization
+RG ST 162F - South Asians in the US
+RG ST 19 - The Gods and Goddesses of India
+RG ST 21 - Zen Buddhism
+RG ST 3 - Introduction to Asian Religious Traditions
+RG ST 4 - Introduction to Buddhism
+RG ST 43 - Origins A Dialogue Between Scientists and Humanists
+RG ST 5 - Introduction to Judaism, Christianity, and Islam
+RG ST 7 - Introduction to American Religion
+RG ST 80A - Religion and Western Civilization I Ancient
+RG ST 80B - Religion and Western Civilization II Medieval
+RG ST 80C - Religion and Western Civilization III Modern
+SLAV 151C - Literature of Central Europe
+SLAV 152A - Slavic and East European Folklore
+SLAV 152B - Language and Cultural Identity
+SLAV 152C - Ideology and Representation
+SLAV 164B - Science Fiction in Eastern Europe
+SLAV 164C - Women in Russian Literature
+SOC 134 - Social Movements
+SOC 144 - The Chicano Community
+SOC 153 - Women and Work
+SPAN 120A - Contemporary Spanish-American Fiction (in English Translation)
+SPAN 120B - Contemporary Spanish-American Fiction (in English Translation)
+SPAN 135 - Survey of Chicano Literature
+SPAN 178 - Mexican Culture
+SPAN 179 - The Chicano Novel
+THTR 180A - American Drama to 1940
+THTR 180B - American Drama 1940 to Present
+THTR 180C - Contemporary American Drama and Theater
+THTR 180E - Culture Clash Studies in US Latino Theater
+THTR 180G - Race, Gender, and Performance
+THTR 182A - Ancient Theater and Drama
+THTR 182M - Modern Theater and Drama
+THTR 182MC - Modern Contemporary
+THTR 182N - Neoclassical Theater and Drama
+THTR 182RM - Romantic Theater and Drama
+THTR 184AA - African American Performance
+THTR 184CA - Comparative African Theater and Performance
+THTR 188S - Shakespeare on Film and Stage
+THTR 2C - Performance in Global Contexts EUROPE
+THTR 3 - Life of the Theater
+THTR 7 - Performance of the Human Body
+THTR 8 - European Theater History

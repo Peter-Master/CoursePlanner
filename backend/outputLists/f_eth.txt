@@ -1,11 +1,44 @@
-CH ST 188C
-ENGL 134
-ENGL 134AA
-ENGL 134BB
-ENGL 134IB
-ENGL 134MP
-ENGL 134NA
-ENGL 134PC
-ENGL 134RR
-ENGL 134RS
-ENGL 191
+ARTHI 121D - African American Art and the African Legacy
+AS AM 118 - Asian Americans in Popular Culture
+AS AM 120 - Asian American Documentary
+AS AM 127 - Asian American Film, Television, and Digital Media
+AS AM 140 - Theory  Production of Social Experience
+AS AM 146 - Racialized Sexuality on Screen and Scene
+AS AM 4 - Introduction to Asian American Popular Culture
+AS AM 5 - Introduction to Asian American Literature
+BL ST 127 - Black Women Writers
+BL ST 14 - The History of Jazz
+BL ST 142 - Music in African-American Cultures USA
+BL ST 170 - African-Americans in the American Cinema
+BL ST 172 - Contemporary Black Cinema
+BL ST 38A - Introduction to African-American Literature (Part 1)
+BL ST 38B - Introduction to African-American Literature (Part II)
+C LIT 153 - Border Narratives
+CH ST 125B - Contemporary Chicano and Chicana Art
+CH ST 138 - Barrio Popular Culture
+CH ST 148 - Chicana Art and Feminism
+CH ST 152 - Postcolonialism
+CH ST 180 - Survey of Chicano Literature
+CH ST 181 - The Chicano Novel
+CH ST 184A - Chicana Writers
+CH ST 188C - Chicano Theater Workshop
+ENGL 114BW - Women and Literature
+ENGL 134 - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134AA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134BB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MP - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134NA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134PC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RS - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 187AA - Studies in Modern Literature
+ENGL 191 - Afro-American Fiction and Criticism, 1920's to the present
+ENGL 38A - Introduction to African-American Literature (Part 1)
+ENGL 38B - Introduction to African-American Literature (Part II)
+ENGL 50 - Introduction to US Minority Literature
+SPAN 135 - Survey of Chicano Literature
+SPAN 179 - The Chicano Novel
+THTR 180E - Culture Clash Studies in US Latino Theater
+THTR 180G - Race, Gender, and Performance
+THTR 184AA - African American Performance

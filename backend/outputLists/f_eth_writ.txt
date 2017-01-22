@@ -1,5 +1,8 @@
-AS AM 5 - Introduction to Asian American Literature
+AS AM 4 - Introduction to Asian American Popular Culture
 BL ST 127 - Black Women Writers
+BL ST 14 - The History of Jazz
+BL ST 170 - African-Americans in the American Cinema
+BL ST 172 - Contemporary Black Cinema
 BL ST 38A - Introduction to African-American Literature (Part 1)
 BL ST 38B - Introduction to African-American Literature (Part II)
 C LIT 153 - Border Narratives
@@ -24,3 +27,6 @@ ENGL 38B - Introduction to African-American Literature (Part II)
 ENGL 50 - Introduction to US Minority Literature
 SPAN 135 - Survey of Chicano Literature
 SPAN 179 - The Chicano Novel
+THTR 180E - Culture Clash Studies in US Latino Theater
+THTR 180G - Race, Gender, and Performance
+THTR 184AA - African American Performance

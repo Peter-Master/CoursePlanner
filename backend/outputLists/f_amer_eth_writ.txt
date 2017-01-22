@@ -1,13 +1,3 @@
-AS AM 5 - Introduction to Asian American Literature
-BL ST 127 - Black Women Writers
-BL ST 38A - Introduction to African-American Literature (Part 1)
-BL ST 38B - Introduction to African-American Literature (Part II)
-C LIT 153 - Border Narratives
-CH ST 152 - Postcolonialism
-CH ST 180 - Survey of Chicano Literature
-CH ST 181 - The Chicano Novel
-CH ST 184A - Chicana Writers
-ENGL 114BW - Women and Literature
 ENGL 134 - Studies in Literature of Cultural and Ethnic Communities in the United States
 ENGL 134AA - Studies in the Literature of Cultural and Ethnic Communities in the United States
 ENGL 134BB - Studies in Literature of Cultural and Ethnic Communities in the United States
@@ -17,10 +7,4 @@ ENGL 134NA - Studies in the Literature of Cultural and Ethnic Communities in the
 ENGL 134PC - Studies in Literature of Cultural and Ethnic Communities in the United States
 ENGL 134RR - Studies in Literature of Cultural and Ethnic Communities in the United States
 ENGL 134RS - Studies in Literature of Cultural and Ethnic Communities in the United States
-ENGL 187AA - Studies in Modern Literature
 ENGL 191 - Afro-American Fiction and Criticism, 1920's to the present
-ENGL 38A - Introduction to African-American Literature (Part 1)
-ENGL 38B - Introduction to African-American Literature (Part II)
-ENGL 50 - Introduction to US Minority Literature
-SPAN 135 - Survey of Chicano Literature
-SPAN 179 - The Chicano Novel
