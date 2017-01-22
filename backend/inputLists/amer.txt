@@ -1,0 +1,121 @@
+ANTH 131 - North American Indians
+ANTH 176B - The American West
+ARTHI 121A - American Art from Revolution to Civil War: 1700-1860
+ARTHI 121B - Reconstruction, Renaissance, and Realism in American Art: 1860-1900
+ARTHI 121C - Twentieth-Century American Art: Modernism and Pluralism, 1900-Present
+ARTHI 136H - Housing American Cultures
+AS AM 1 - Introduction to Asian American History, 1850-Present
+AS AM 2 - American Migration Since 1965: Asians and others in the United States
+BL ST 1 - Introduction to African-American Studies
+BL ST 1H - Introduction to African-American Studies- Honors Seminar
+BL ST 6 - The Civil Rights Movement
+BL ST 6H - The Civil Rights Movement- Honors
+BL ST 103 - The Politics of Black Liberation - The Sixties
+BL ST 137E - Sociology of the Black Experience
+BL ST 169AR - African-American History
+BL ST 169BR - African-American History
+BL ST 169CR - African-American History
+C LIT 133 - Transpacific Literature
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
+CH ST 144 - The Chicano Community
+CH ST 168A - History of the Chicano
+CH ST 168B - History of the Chicano
+CH ST 174 - Chicano/a Politics
+CH ST 188C - Chicano Theater Workshop
+ENGL 133 - Studies in American Regional Literature
+ENGL 133BB - Studies in American Regional Literature
+ENGL 133GC - Studies in American Regional Literature
+ENGL 133GP - Studies in American Regional Literature
+ENGL 133MV - Studies in American Regional Literature
+ENGL 133SA - Studies in American Regional Literature
+ENGL 133SO - Studies in American Regional Literature
+ENGL 133TL - Transpacific Literature
+ENGL 134 - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134AA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134BB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IA - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134LC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MD - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MP - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134NA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134PC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RS - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134TC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134TR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134XX - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 137A - Poetry in America Before 1900
+ENGL 137B - Poetry in America since 1900
+ENGL 191 - Afro-American Fiction and Criticism, 1920's to the present
+ENV S 173 - American Environmental History
+FEMST 155A - Women in American Society
+FEMST 159B - Women in American History
+FEMST 159C - Women in Twentieth-Century American History
+HIST 11A - History of America's Racial and Ethnic Minorities
+HIST 17A - The American People
+HIST 17AH - The American People-Honors
+HIST 17B - The American People
+HIST 17BH - The American People-Honors
+HIST 17C - The American People
+HIST 17CH - The American People-Honors
+HIST 105A - The Atomic Age
+HIST 159B - Women in American History
+HIST 159C - Women in Twentieth Century American History
+HIST 160A - The American South to 1865
+HIST 160B - The American South, 1865 to the Present
+HIST 161A - Colonial and Revolutionary America
+HIST 161B - Colonial and Revolutionary America
+HIST 164C - Civil War and Reconstruction
+HIST 164IA - American Immigration
+HIST 164IB - American Immigration
+HIST 165 - America in the Gilded Age, 1876 to 1900
+HIST 166A - United States in the Twentieth Century
+HIST 166B - United States in the Twentieth Century
+HIST 166C - United States in the Twentieth Century
+HIST 166LB - American Legal History
+HIST 168A - History of the Chicanos
+HIST 168B - History of the Chicanos
+HIST 169M - History of Afro-American Thought
+HIST 172A - Politics and Public Policy in the United States
+HIST 172B - Politics and Public Policy in the United States
+HIST 173T - American Environmental History
+HIST 175A - American Cultural History
+HIST 175B - American Cultural History
+HIST 176A - The American West
+HIST 176B - The American West
+HIST 177 - History of California
+HIST 178A - American Urban History
+HIST 178B - American Urban History
+HIST 179A - Native American History to 1838
+HIST 179B - Native American History, 1838 to the Present
+MS 27 - American Military History and the Evolution of Western Warfare
+POL S 12 - American Government and Politics
+POL S 115 - Courts, Judges and Politics
+POL S 127 - American Foreign Policy
+POL S 151 - Voting and Elections
+POL S 152 - American Political Parties
+POL S 153 - Political Interest Groups
+POL S 155 - Congress
+POL S 157 - The American Presidency
+POL S 158 - Power in Washington
+POL S 162 - Urban Government and Politics
+POL S 165 - Criminal Justice
+POL S 167 - Constitutional Law: The Bill of Rights
+POL S 180 - Bureaucracy and Public Policy
+POL S 185 - Government and the Economy
+RG ST 7 - Introduction to American Religion
+RG ST 14 - Introduction to Native American Religious Studies
+RG ST 151A - Religion in American History to 1865
+RG ST 151B - Religion in American History Since 1865
+RG ST 152 - Religion in America Today
+SOC 137E - Sociology of the Black Experience
+SOC 140 - Aging in American Society
+SOC 144 - The Chicano Community
+SOC 155A - Women in American Society
+SOC 157 - Radicalism in Contemporary Life
+THTR 180A - American Drama to 1940
+THTR 180B - American Drama 1940 to Present
