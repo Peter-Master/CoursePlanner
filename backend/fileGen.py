@@ -62,50 +62,68 @@
 # should come at the end of the file
 #
 
-# open all files
+import re
+from itertools import combinations   # for taking combinations of requirements
+
+# open all files and store info (stripped of weird characters) in lists
+
+#pattern = re.compile(r"[^\w \-\_\"\n\,\(\)\']")
+pattern = re.compile(r" \-.*") # (RG ST 152 - blah blah blah) ---> (RG ST 152)
+
 
 with open("inputLists/amer.txt") as amerFile:
 	amerList = amerFile.read()
+amerList = re.sub(pattern, "", amerList)
 amerList = amerList.split("\n")
 	
 with open("inputLists/c.txt") as areaCFile:
 	areaCList = areaCFile.read()
+areaCList = re.sub(pattern, "", areaCList)
 areaCList = areaCList.split("\n")
 	
 with open("inputLists/d.txt") as areaDFile:
 	areaDList = areaDFile.read()
+areaDList = re.sub(pattern, "", areaDList)
 areaDList = areaDList.split("\n")
 	
 with open("inputLists/e.txt") as areaEFile:
 	areaEList = areaEFile.read()
+areaEList = re.sub(pattern, "", areaEList)
 areaEList = areaEList.split("\n")
 	
 with open("inputLists/eth.txt") as ethFile:
 	ethList = ethFile.read()
-newEthList = ethList.split("\n")
+ethList = re.sub(pattern, "", ethList)
+ethList = ethList.split("\n")
 	
 with open("inputLists/euro.txt") as euroFile:
 	euroList = euroFile.read()
-newEuroList = euroList.split("\n")
+euroList = re.sub(pattern, "", euroList)
+euroList = euroList.split("\n")
 	
 with open("inputLists/f.txt") as areaFFile:
 	areaFList = areaFFile.read()
+areaFList = re.sub(pattern, "", areaFList)
 areaFList = areaFList.split("\n")
 	
 with open("inputLists/g.txt") as areaGFile:
 	areaGList = areaGFile.read()
+areaGList = re.sub(pattern, "", areaGList)
 areaGList = areaGList.split("\n")
 	
 with open("inputLists/quant.txt") as quantFile:
 	quantList = quantFile.read()
+quantList = re.sub(pattern, "", quantList)
 quantList = quantList.split("\n")
 	
 with open("inputLists/world.txt") as worldFile:
 	worldList = worldFile.read()
+worldList = re.sub(pattern, "", worldList)
 worldList = worldList.split("\n")
 	
 with open("inputLists/writ.txt") as writFile:
 	writList = writFile.read()
+writList = re.sub(pattern, "", writList)
 writList = writList.split("\n")
 
 
@@ -134,11 +152,47 @@ with open("outputLists/defg.txt", 'w') as areaDEFGFile:
 	areaDEFGFile.write("\n".join(item for item in areaDEFGList))
 
 
+# generate all combinations of one element of areas
+# and one or more elements from reqs
+areas = [("c",areaCList), ("d", areaDList), ("de", areaDEList), ("defg", areaDEFGList), ("e", areaEList), ("f", areaFList), ("fg", areaFGList), ("g", areaGList)]
+reqs = {"amer": amerList, "eth": ethList, "euro": euroList, "quant": quantList, "world": worldList, "writ": writList}
+reqAbbrevCombos = []
+for i in range(1, len(reqs) + 1):
+	reqAbbrevCombos.extend(combinations(sorted(list(reqs.keys())), i))
+
+"""
+counter1 = 0
+for areaAbbrev, areaList in areas:
+	counter1 += 1
+	outputList = areaList
+	counter2 = 0
+	for reqAbbrevCombo in reqAbbrevCombos:
+		counter2 += 1
+		reqAbbrevComboText = ""
+		counter3 = 0
+		for reqAbbrev in reqAbbrevCombo:
+			counter3 += 1
+			with open("bullshit/bullshit" + str(counter1) + "_" + str(counter2) + "_" + str(counter3) + "_" + ".txt", 'w') as yo:
+				yo.write("\n".join(item for item in (reqs[reqAbbrev])))
+			outputList = set(outputList).intersection(reqs[reqAbbrev])
+			reqAbbrevComboText += "_" + reqAbbrev
+		#print(counter, len(outputList))
+		if outputList: # has at least one item
+			with open("outputLists/" + areaAbbrev + reqAbbrevComboText + ".txt", 'w') as outputFile:
+				outputList = sorted(set(outputList))
+				outputFile.write("\n".join(item for item in outputList))
+"""
 
 
-# generate all combinations of one element of areaList
-# and any number of elements from requirementList
-areaLists = [areaCList, areaDList, areaDEList, areaDEFGList, areaEList, areaFList, areaFGList, areaGList]
-requirementLists = [amerList, ethList, euroList, quantList, worldList, writList]
-
-
+for areaAbbrev, areaList in areas:
+	outputList = set(areaList)
+	for reqAbbrevCombo in reqAbbrevCombos:
+		reqAbbrevComboText = ""
+		for reqAbbrev in reqAbbrevCombo:
+			outputList = set(outputList) & set(reqs[reqAbbrev])
+			#outputList = set(outputList).intersection(reqs[reqAbbrev])
+			reqAbbrevComboText += "_" + reqAbbrev
+		if outputList: # has at least one item
+			with open("outputLists/" + areaAbbrev + reqAbbrevComboText + ".txt", 'w') as outputFile:
+				outputList = sorted(set(outputList))
+				outputFile.write("\n".join(item for item in outputList))
