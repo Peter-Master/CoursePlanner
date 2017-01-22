@@ -96,23 +96,23 @@ C LIT 30C - Major Works in European Literature
 C LIT 35 - The Making of the Modern World
 CH ST 114 - Cultural and Critical Theory
 CH ST 13 - Critical Introduction to Ancient Mesoamerica
-CH ST 137 - Chicanao Oral Traditions
-CH ST 140 - Chicanao Mexican Cultural Heritage
+CH ST 137 - Chicana/o Oral Traditions
+CH ST 140 - Chicana/o Mexican Cultural Heritage
 CH ST 144 - The Chicano Community
 CH ST 151 - De-Colonizing Feminism
 CH ST 168A - History of the Chicano
 CH ST 168B - History of the Chicano
 CH ST 172 - Law and Civil Rights
 CH ST 173 - Immigrant Labor Organizing
-CH ST 174 - Chicanoa Politics
+CH ST 174 - Chicano/a Politics
 CH ST 175 - Comparative Social Movements
 CH ST 176 - Theories of Social Change and Chicano Political Life
-CH ST 178A - Global Migration, Transnationalism in Chicanao Contexts
+CH ST 178A - Global Migration, Transnationalism in Chicana/o Contexts
 CH ST 179 - Democracy and Diversity
 CH ST 187 - Language, Power, and Learning
-CH ST 1A - Introduction to Chicanoa Studies
-CH ST 1B - Introduction to Chicanoa Studies
-CH ST 1C - Introduction to Chicanoa Studies
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
 CHIN 148 - Historic Lives
 CHIN 183B - Religious Practice and the State in China
 CHIN 185A - Qing Empire
@@ -325,7 +325,7 @@ PSY 102 - Introduction to Social Psychology
 PSY 103 - Introduction to Psychopathology
 PSY 105 - Developmental Psychology
 RG ST 1 - Introduction to the Study of Religion
-RG ST 115A - Literature and Religion of the Hebrew BibleOld Testament
+RG ST 115A - Literature and Religion of the Hebrew Bible/Old Testament
 RG ST 116A - The New Testament and Early Christianity
 RG ST 12 - Religious Approaches to Death
 RG ST 123 - Asian American Religions

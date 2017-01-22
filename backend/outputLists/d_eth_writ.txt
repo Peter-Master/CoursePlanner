@@ -17,9 +17,9 @@ BL ST 6 - The Civil Rights Movement
 CH ST 144 - The Chicano Community
 CH ST 172 - Law and Civil Rights
 CH ST 175 - Comparative Social Movements
-CH ST 1A - Introduction to Chicanoa Studies
-CH ST 1B - Introduction to Chicanoa Studies
-CH ST 1C - Introduction to Chicanoa Studies
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
 FEMST 153 - Women and Work
 FEMST 60 - Women of Color Race, Class, and Ethnicity
 FEMST 60H - Women of Color Race, Class, and Ethnicity Honors

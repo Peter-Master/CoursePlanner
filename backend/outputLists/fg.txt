@@ -1,4 +1,4 @@
-ART 106W - Introduction to 2D3D Visualizations in Architecture
+ART 106W - Introduction to 2D/3D Visualizations in Architecture
 ART 125 - Art Since 1950
 ART 1A - Visual Literacy
 ART 7A - The Intersections of Art and Life
@@ -71,7 +71,7 @@ ARTHI 136M - Revival Styles in Southern Californian Architecture
 ARTHI 136O - Sustainable Architecture History and Aesthetics
 ARTHI 136R - Architecture of the Americas
 ARTHI 136V - Modern Indian Visual Culture
-ARTHI 136W - Introduction to 2D3D Visualizations in Architecture
+ARTHI 136W - Introduction to 2D/3D Visualizations in Architecture
 ARTHI 136Y - Modern Architecture in Southern California, C 1890s to the Present
 ARTHI 138B - Contemporary Photography
 ARTHI 138C - Social Documentary Photography

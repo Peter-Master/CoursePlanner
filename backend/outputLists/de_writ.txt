@@ -90,9 +90,9 @@ CH ST 179 - Democracy and Diversity
 CH ST 180 - Survey of Chicano Literature
 CH ST 181 - The Chicano Novel
 CH ST 184A - Chicana Writers
-CH ST 1A - Introduction to Chicanoa Studies
-CH ST 1B - Introduction to Chicanoa Studies
-CH ST 1C - Introduction to Chicanoa Studies
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
 CHIN 124B - Readings in Modern Chinese Literature
 CHIN 132A - Special Topics in Classical Chinese Poetry
 CHIN 170 - New Taiwan Cinema

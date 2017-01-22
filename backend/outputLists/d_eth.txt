@@ -26,20 +26,20 @@ BL ST 169CR - African-American History
 BL ST 4 - Critical Introduction to Race and Racism
 BL ST 50 - Blacks in the Media
 BL ST 6 - The Civil Rights Movement
-CH ST 137 - Chicanao Oral Traditions
-CH ST 140 - Chicanao Mexican Cultural Heritage
+CH ST 137 - Chicana/o Oral Traditions
+CH ST 140 - Chicana/o Mexican Cultural Heritage
 CH ST 144 - The Chicano Community
 CH ST 151 - De-Colonizing Feminism
 CH ST 168A - History of the Chicano
 CH ST 168B - History of the Chicano
 CH ST 172 - Law and Civil Rights
 CH ST 173 - Immigrant Labor Organizing
-CH ST 174 - Chicanoa Politics
+CH ST 174 - Chicano/a Politics
 CH ST 175 - Comparative Social Movements
-CH ST 178A - Global Migration, Transnationalism in Chicanao Contexts
-CH ST 1A - Introduction to Chicanoa Studies
-CH ST 1B - Introduction to Chicanoa Studies
-CH ST 1C - Introduction to Chicanoa Studies
+CH ST 178A - Global Migration, Transnationalism in Chicana/o Contexts
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
 FEMST 153 - Women and Work
 FEMST 60 - Women of Color Race, Class, and Ethnicity
 FEMST 60H - Women of Color Race, Class, and Ethnicity Honors

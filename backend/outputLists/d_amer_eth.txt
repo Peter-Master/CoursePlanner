@@ -9,10 +9,10 @@ BL ST 6 - The Civil Rights Movement
 CH ST 144 - The Chicano Community
 CH ST 168A - History of the Chicano
 CH ST 168B - History of the Chicano
-CH ST 174 - Chicanoa Politics
-CH ST 1A - Introduction to Chicanoa Studies
-CH ST 1B - Introduction to Chicanoa Studies
-CH ST 1C - Introduction to Chicanoa Studies
+CH ST 174 - Chicano/a Politics
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
 HIST 161A - Colonial and Revolutionary America
 HIST 161B - Colonial and Revolutionary America
 HIST 168A - History of the Chicanos

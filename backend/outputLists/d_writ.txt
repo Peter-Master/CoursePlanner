@@ -46,9 +46,9 @@ CH ST 144 - The Chicano Community
 CH ST 172 - Law and Civil Rights
 CH ST 175 - Comparative Social Movements
 CH ST 179 - Democracy and Diversity
-CH ST 1A - Introduction to Chicanoa Studies
-CH ST 1B - Introduction to Chicanoa Studies
-CH ST 1C - Introduction to Chicanoa Studies
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
 CHIN 185A - Qing Empire
 CHIN 185B - Modern China (since 1911)
 CLASS 171 - Artifact and Text The Archaeology and Literature of Early Greece

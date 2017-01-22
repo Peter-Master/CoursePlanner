@@ -19,7 +19,7 @@
 # requirements
 #
 #
-#
+# to do: remove honors
 #
 # ASSUMPTIONS:
 #
@@ -67,8 +67,11 @@ from itertools import combinations   # for taking combinations of requirements
 
 # open all files and store info (stripped of weird characters) in lists
 
-pattern = re.compile(r"[^\w \-\_\"\n\,\(\)\']")
-#pattern = re.compile(r" \-.*") # (RG ST 152 - blah blah blah) ---> (RG ST 152)
+pattern = re.compile(r"[^\w \-\_\\\/\"\n\,\(\)\']")
+# pattern = re.compile(r"( \-.*)") # (RG ST 152 - blah blah blah) ---> (RG ST 152)
+# pattern = re.compile(r"( \-.*)|([A-Z][A-Z] \-.*)")
+DIFF_CHARS = 0 # if number of characters that differs is <= DIFF_CHARS,
+# the classes will be treated as duplicates
 
 
 with open("inputLists/amer.txt") as amerFile:
@@ -160,6 +163,13 @@ reqAbbrevCombos = []
 for i in range(1, len(reqs) + 1):
 	reqAbbrevCombos.extend(combinations(sorted(list(reqs.keys())), i))
 
+def diffChars(a, b):
+    delta, i = 0, 0
+    while i < len(a) and i < len(b):
+        delta += a[i] != b[i]
+        i += 1
+    delta += len(a[i:]) + len(b[i:])
+    return delta
 
 for areaAbbrev, areaList in areas:
 	for reqAbbrevCombo in reqAbbrevCombos:
@@ -172,4 +182,8 @@ for areaAbbrev, areaList in areas:
 		if outputList: # has at least one item
 			with open("outputLists/" + areaAbbrev + reqAbbrevComboText + ".txt", 'w') as outputFile:
 				outputList = sorted(set(outputList))
+				for i in range(len(outputList)-1, 0, -1):
+					if diffChars(outputList[i],outputList[i-1]) <= DIFF_CHARS:
+						del outputList[outputList.index(outputList[i-1])]
+
 				outputFile.write("\n".join(item for item in outputList))

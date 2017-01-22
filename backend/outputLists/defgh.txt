@@ -24,7 +24,7 @@ ANTH 25 - Violence and the Japanese State
 ANTH 3 - Introductory Archaeology
 ANTH 3SS - Introduction to Archaeology
 ANTH 7 - Introductory Biosocial Anthropology
-ART 106W - Introduction to 2D3D Visualizations in Architecture
+ART 106W - Introduction to 2D/3D Visualizations in Architecture
 ART 125 - Art Since 1950
 ART 1A - Visual Literacy
 ART 7A - The Intersections of Art and Life
@@ -98,7 +98,7 @@ ARTHI 136M - Revival Styles in Southern Californian Architecture
 ARTHI 136O - Sustainable Architecture History and Aesthetics
 ARTHI 136R - Architecture of the Americas
 ARTHI 136V - Modern Indian Visual Culture
-ARTHI 136W - Introduction to 2D3D Visualizations in Architecture
+ARTHI 136W - Introduction to 2D/3D Visualizations in Architecture
 ARTHI 136Y - Modern Architecture in Southern California, C 1890s to the Present
 ARTHI 138B - Contemporary Photography
 ARTHI 138C - Social Documentary Photography
@@ -235,9 +235,9 @@ C LIT 35 - The Making of the Modern World
 CH ST 114 - Cultural and Critical Theory
 CH ST 125B - Contemporary Chicano and Chicana Art
 CH ST 13 - Critical Introduction to Ancient Mesoamerica
-CH ST 137 - Chicanao Oral Traditions
+CH ST 137 - Chicana/o Oral Traditions
 CH ST 138 - Barrio Popular Culture
-CH ST 140 - Chicanao Mexican Cultural Heritage
+CH ST 140 - Chicana/o Mexican Cultural Heritage
 CH ST 144 - The Chicano Community
 CH ST 148 - Chicana Art and Feminism
 CH ST 151 - De-Colonizing Feminism
@@ -246,19 +246,19 @@ CH ST 168A - History of the Chicano
 CH ST 168B - History of the Chicano
 CH ST 172 - Law and Civil Rights
 CH ST 173 - Immigrant Labor Organizing
-CH ST 174 - Chicanoa Politics
+CH ST 174 - Chicano/a Politics
 CH ST 175 - Comparative Social Movements
 CH ST 176 - Theories of Social Change and Chicano Political Life
-CH ST 178A - Global Migration, Transnationalism in Chicanao Contexts
+CH ST 178A - Global Migration, Transnationalism in Chicana/o Contexts
 CH ST 179 - Democracy and Diversity
 CH ST 180 - Survey of Chicano Literature
 CH ST 181 - The Chicano Novel
 CH ST 184A - Chicana Writers
 CH ST 187 - Language, Power, and Learning
 CH ST 188C - Chicano Theater Workshop
-CH ST 1A - Introduction to Chicanoa Studies
-CH ST 1B - Introduction to Chicanoa Studies
-CH ST 1C - Introduction to Chicanoa Studies
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
 CHIN 115A - Imagism, Haiku, and Chinese Poetry
 CHIN 124A - Readings in Modern Chinese Literature
 CHIN 124B - Readings in Modern Chinese Literature
@@ -883,7 +883,7 @@ PSY 103 - Introduction to Psychopathology
 PSY 105 - Developmental Psychology
 RG ST 1 - Introduction to the Study of Religion
 RG ST 114X - Dante's "Divine Comedy"
-RG ST 115A - Literature and Religion of the Hebrew BibleOld Testament
+RG ST 115A - Literature and Religion of the Hebrew Bible/Old Testament
 RG ST 116A - The New Testament and Early Christianity
 RG ST 12 - Religious Approaches to Death
 RG ST 123 - Asian American Religions
