@@ -1,22 +1,24 @@
-import urllib
 import re
-import time
 
 areaAFile = open("a.txt")
 areaAList = aFile.read()
 newAreaAList = areaAList.split("\n")
 
+areaBFile = open("b.txt")
+areaBList = bFile.read()
+newAreaBList = areaBList.split("\n")
+
 culturesFile = open("cultures.txt")
 culturesList = culturesFile.read()
 newCulturesList = culturesList.split("\n")
 
-europeanFile = open("european.txt")
-europeanList = europeanFile.read()
-newEuropeanList = europeanList.split("\n")
-
 ethnicityFile = open("ethnicity.txt")
 ethnicityList = ethnicityFile.read()
 newEthnicityList = ethnicityList.split("\n")
+
+europeanFile = open("european.txt")
+europeanList = europeanFile.read()
+newEuropeanList = europeanList.split("\n")
 
 quantitativeFile = open("quantitative.txt")
 quantitativeList = quantitativeFile.read()
